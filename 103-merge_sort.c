@@ -8,7 +8,7 @@
  * @middle: this is the middle of the array
  * @end: this is the end of the array
  * @dest: this is the dest of the array
- * @source: the source of the array
+ * @source: the source of the arrays
  * Return: nothing
  */
 void TDMerge(size_t start, size_t middle, size_t end, int *dest, int *source)
