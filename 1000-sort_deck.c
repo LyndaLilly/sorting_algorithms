@@ -4,7 +4,7 @@
 #include <string.h>
 
 /**
- * get_val - this gets the value of the card
+ * get_val - this gets the value of the cards
  * @str: tis is the string value of the card
  * Return: this is the relative card from 0 to 12
  */
