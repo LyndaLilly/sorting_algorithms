@@ -6,7 +6,7 @@
  * @root: this is root to arrange
  * @end: this is the end of the array
  * @size: this is size of array
- * Return: nothing
+ * Return: at all
  */
 void sift_down(int *array, size_t root, size_t end, size_t size)
 {
