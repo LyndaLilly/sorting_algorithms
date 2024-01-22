@@ -5,7 +5,7 @@
  * counting_sort - this sorts and counts arrays
  * @array: this is array to sort and count
  * @size: this is the size of array to sort
- * Return: nothing
+ * Return: blank
  */
 void counting_sort(int *array, size_t size)
 {
