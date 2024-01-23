@@ -3,7 +3,7 @@
 /**
  * insertion_sort_list - this inserts sort list
  * @list: this is the list to insert
- * Return: void
+ * Return: blank
  */
 void insertion_sort_list(listint_t **list)
 {

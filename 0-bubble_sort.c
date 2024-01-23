@@ -4,7 +4,7 @@
  * bubble_sort - this sorts the bubble
  * @array: thisis the array to sort
  * @size: size of array to sort
- * Return: nothing
+ * Return: nothin
  */
 void bubble_sort(int *array, size_t size)
 {
